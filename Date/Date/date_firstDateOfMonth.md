@@ -1,0 +1,1 @@
+formatDateTime(startOfMonth(utcNow()), 'yyyy-MM-dd')
